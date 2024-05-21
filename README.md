@@ -4,7 +4,7 @@
     <h2>ℹ️ About Me</h2>
     <h4>I'm a full-stack developer specializing in Front-end.</h4>
     <h4>I enjoy writing articles about software development, reading books, and playing games.</h4>
-    <h4>Website: https://williamlibero.com.br/</h4>
+    <h4>Check out my latest projects on my website: https://williamlibero.com.br/</h4>
 </div>
 
 <div align="center">
