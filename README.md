@@ -35,7 +35,12 @@
 </div>
 
 <div align="center">
-    <h2>💻 GitHub stats</h2>
+    <h2>📖 Check my recent articles on Medium</h2>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/0" alt="Recent Articles"> 
+</div>
+
+<div align="center">
+    <h2>💻 My GitHub stats</h2>
      <table align="center" width="100%" height="100%" >
         <tr>
             <td><img src="https://github-readme-stats.vercel.app/api?username=William-Libero&theme=default&show_icons=true&hide_border=true&count_private=true" alt="William-Libero's GitHub Stats" /></td>
