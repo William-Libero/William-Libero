@@ -1,5 +1,1 @@
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=2500&pause=1000&color=0CFF1A&background=000000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+my+name+is+William.;This+is+my+GitHub+profile.)](https://git.io/typing-svg)
