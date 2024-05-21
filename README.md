@@ -21,21 +21,11 @@
     <h2>🔧 Frameworks</h2>
     <p>Frameworks have always been a great help to me in the development of scalable and efficient software in a reasonable amount of time.</p>
     <p>Below you can find the frameworks I have already worked with.</p>
-    <a style="text-decoration: none;" target="_blank" href="https://vuejs.org/">
-        <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%20?style=for-the-badge&logo=vuedotjs&logoColor=%2342b982&color=%23324a5c">
-    </a>
-    <a style="text-decoration: none;" target="_blank" href="https://laravel.com/">
-        <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%20?style=for-the-badge&logo=Laravel&logoColor=white&color=%23f33a2e">
-    </a>
-    <a style="text-decoration: none;" target="_blank" href="https://pt-br.react.dev/learn">
-        <img alt="React" src="https://img.shields.io/badge/React-%20?style=for-the-badge&logo=react&logoColor=white&color=%2362dafc">
-    </a>
-    <a style="text-decoration: none;" target="_blank" href="https://nextui.org/">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%20?style=for-the-badge&logo=nextdotjs&logoColor=white&color=black">
-    </a>
-    <a style="text-decoration: none;" target="_blank" href="https://nestjs.com/">
-        <img alt="Nestjs" src="https://img.shields.io/badge/Nestjs-%20?style=for-the-badge&logo=nestjs&logoColor=white&color=%23ea285dF">
-    </a>
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%20?style=for-the-badge&logo=vuedotjs&logoColor=%2342b982&color=%23324a5c">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%20?style=for-the-badge&logo=Laravel&logoColor=white&color=%23f33a2e">
+    <img alt="React" src="https://img.shields.io/badge/React-%20?style=for-the-badge&logo=react&logoColor=white&color=%2362dafc">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%20?style=for-the-badge&logo=nextdotjs&logoColor=white&color=black">
+    <img alt="Nestjs" src="https://img.shields.io/badge/Nestjs-%20?style=for-the-badge&logo=nestjs&logoColor=white&color=%23ea285dF">
 </div>
 
 <div align="center">
