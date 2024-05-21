@@ -39,10 +39,10 @@
      <table align="center" width="100%" height="100%" >
         <tr>
             <td><img src="https://github-readme-stats.vercel.app/api?username=William-Libero&theme=default&show_icons=true&hide_border=true&count_private=true" alt="William-Libero's GitHub Stats" /></td>
-            <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Libero&theme=default&show_icons=true&hide_border=true&layout=compact" alt="William-Libero's GitHub Stats" /></td>
+            <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=William-Libero&theme=default&hide_border=true" alt="William-Libero's GitHub Stats" /></td>
         </tr>
          <tr>
-            <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=William-Libero&theme=default&hide_border=true" alt="William-Libero's GitHub Stats" /></td>
+            <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Libero&theme=default&show_icons=true&hide_border=true&layout=compact" alt="William-Libero's GitHub Stats" /></td>
          </tr>
      </table>
 </div>
