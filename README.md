@@ -20,7 +20,7 @@
 
 <div align="center">
     <h2>🔧 Frameworks</h2>
-    <h4>Frameworks have always been a great help to me in the development of scalable and efficient software in a reasonable amount of time.</h4>
+    <h4>Frameworks have always been a great help to me in developing scalable and efficient software in a reasonable amount of time.</h4>
     <h4>Below you can find the frameworks I have already worked with.</h4>
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%20?style=for-the-badge&logo=vuedotjs&logoColor=%2342b982&color=%23324a5c">
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%20?style=for-the-badge&logo=Laravel&logoColor=white&color=%23f33a2e">
