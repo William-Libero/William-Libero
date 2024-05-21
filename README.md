@@ -21,9 +21,17 @@
     <h2>🔧 Frameworks</h2>
     <p>Frameworks have always been a great help to me in the development of scalable and efficient software in a reasonable amount of time.</p>
     <p>Below you can find the frameworks I have already worked with.</p>
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%20?style=for-the-badge&logo=vuedotjs&logoColor=%2342b982&color=%23324a5c">
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%20?style=ffor-the-badge&logo=Laravel&logoColor=white&color=%23f33a2e">
-    <img alt="React" src="https://img.shields.io/badge/React-%20?style=for-the-badge&logo=react&logoColor=white&color=%2362dafc">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%20?style=for-the-badge&logo=nextdotjs&logoColor=white&color=black">
-    <img alt="Nestjs" src="https://img.shields.io/badge/Nestjs-%20?style=for-the-badge&logo=nestjs&logoColor=white&color=%23ea285d">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%20?style=for-the-badge&logo=vuedotjs&logoColor=%2342b982&color=%23324a5c&link=https%3A%2F%2Fvuejs.org%2F">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%20?style=ffor-the-badge&logo=Laravel&logoColor=white&color=%23f33a2e&link=https%3A%2F%2Flaravel.com%2F">
+    <img alt="React" src="https://img.shields.io/badge/React-%20?style=for-the-badge&logo=react&logoColor=white&color=%2362dafc&link=https%3A%2F%2Fpt-br.legacy.reactjs.org%2F">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%20?style=for-the-badge&logo=nextdotjs&logoColor=white&color=black&link=https%3A%2F%2Fnextjs.org%2F">
+    <img alt="Nestjs" src="https://img.shields.io/badge/Nestjs-%20?style=for-the-badge&logo=nestjs&logoColor=white&color=%23ea285d&link=https%3A%2F%2Fnestjs.com%2F">
+</div>
+
+
+<div align="center">
+    <h2>🔧 My stats</h2>
+    ![William-Libero's Stats](https://github-readme-stats.vercel.app/api?username=William-Libero&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=William-Libero&theme=default&hide_border=true" alt="William-Libero's GitHub Stats" />
+    ![William-Libero's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=William-Libero&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
