@@ -8,8 +8,8 @@
 
 <div align="center">
     <h2>💻 Programming languages</h2>
-    <p>As a full-stack developer, I've worked with both front-end and back-end languages.</p>
-    <p>Below are the programming languages I am proficient in.</p>
+    <h4>As a full-stack developer, I've worked with both front-end and back-end languages.</h4>
+    <h4>Below are the programming languages I am proficient in.</h4>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%20?style=for-the-badge&logo=javascript&logoColor=black&color=%23f5de1c">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%20?style=for-the-badge&logo=php&logoColor=black&color=%233678ac">
     <img alt="GO" src="https://img.shields.io/badge/GO-%20?style=for-the-badge&logo=go&logoColor=white&color=%2302aed6">
@@ -19,8 +19,8 @@
 
 <div align="center">
     <h2>🔧 Frameworks</h2>
-    <p>Frameworks have always been a great help to me in the development of scalable and efficient software in a reasonable amount of time.</p>
-    <p>Below you can find the frameworks I have already worked with.</p>
+    <h4>Frameworks have always been a great help to me in the development of scalable and efficient software in a reasonable amount of time.</h4>
+    <h4>Below you can find the frameworks I have already worked with.</h4>
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%20?style=for-the-badge&logo=vuedotjs&logoColor=%2342b982&color=%23324a5c">
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%20?style=for-the-badge&logo=Laravel&logoColor=white&color=%23f33a2e">
     <img alt="React" src="https://img.shields.io/badge/React-%20?style=for-the-badge&logo=react&logoColor=white&color=%2362dafc">
@@ -30,7 +30,7 @@
 
 <div align="center">
     <h2>🌐 Connect with me</h2>
-    <p>Find my professional profile and contact details in LinkedIn</p>
+    <h4>Find my professional profile and contact details in LinkedIn</h4>
     <a target="_blank" href="https://www.linkedin.com/in/williamlibero">
         <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%20?style=for-the-badge&logo=linkedin&logoColor=white&color=%230b65c3">
     </a>
