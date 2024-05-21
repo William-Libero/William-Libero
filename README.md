@@ -3,7 +3,7 @@
 <div align="center">
     <h2>ℹ️ About Me</h2>
     <h4>I'm a full-stack developer specializing in Front-end.</h4>
-    <p>I enjoy writing articles about software development, reading books, and playing games.</p>
+    <h4>I enjoy writing articles about software development, reading books, and playing games.</h4>
 </div>
 
 <div align="center">
