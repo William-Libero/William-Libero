@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=0CFF1A&background=000000&center=true&vCenter=true&random=false&width=900&height=75&lines=Hi%2C+my+name+is+William.;This+is+my+GitHub+profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=200&color=0BF700&background=000000&center=true&vCenter=true&multiline=true&random=false&width=900&height=135&lines=Hi%2C+my+name+is+William.;Welcome+to+my+GitHub+profile.;Check+out+all+my+info+below.)](https://git.io/typing-svg)
 
 <div align="center">
     <h2>ℹ️ About Me</h2>
