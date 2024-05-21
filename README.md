@@ -37,6 +37,8 @@
 <div align="center">
     <h2>📖 Check my recent articles on Medium</h2>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/0" alt="Recent Articles"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/0" alt="Recent Articles"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/0" alt="Recent Articles"> 
 </div>
 
 <div align="center">
