@@ -21,21 +21,33 @@
     <h2>🔧 Frameworks</h2>
     <p>Frameworks have always been a great help to me in the development of scalable and efficient software in a reasonable amount of time.</p>
     <p>Below you can find the frameworks I have already worked with.</p>
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%20?style=for-the-badge&logo=vuedotjs&logoColor=%2342b982&color=%23324a5c&link=https%3A%2F%2Fvuejs.org%2F">
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%20?style=for-the-badge&logo=Laravel&logoColor=white&color=%23f33a2e&link=https%3A%2F%2Flaravel.com%2F">
-    <img alt="React" src="https://img.shields.io/badge/React-%20?style=for-the-badge&logo=react&logoColor=white&color=%2362dafc&link=https%3A%2F%2Fpt-br.legacy.reactjs.org%2F">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%20?style=for-the-badge&logo=nextdotjs&logoColor=white&color=black&link=https%3A%2F%2Fnextjs.org%2F">
-    <img alt="Nestjs" src="https://img.shields.io/badge/Nestjs-%20?style=for-the-badge&logo=nestjs&logoColor=white&color=%23ea285d&link=https%3A%2F%2Fnestjs.com%2F">
+    <a target="_blank" href="[https://www.linkedin.com/in/williamlibero](https://vuejs.org/)">
+        <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%20?style=for-the-badge&logo=vuedotjs&logoColor=%2342b982&color=%23324a5c">
+    </a>
+    <a target="_blank" href="https://laravel.com/">
+        <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%20?style=for-the-badge&logo=Laravel&logoColor=white&color=%23f33a2e">
+    </a>
+    <a target="_blank" href="https://pt-br.react.dev/learn">
+        <img alt="React" src="https://img.shields.io/badge/React-%20?style=for-the-badge&logo=react&logoColor=white&color=%2362dafc">
+    </a>
+    <a target="_blank" href="https://nextui.org/">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%20?style=for-the-badge&logo=nextdotjs&logoColor=white&color=black">
+    </a>
+    <a target="_blank" href="https://nestjs.com/">
+        <img alt="Nestjs" src="https://img.shields.io/badge/Nestjs-%20?style=for-the-badge&logo=nestjs&logoColor=white&color=%23ea285dF">
+    </a>
 </div>
 
 <div align="center">
     <h2>🌐 Connect with me</h2>
     <p>Find my professional profile and contact details in LinkedIn</p>
-    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%20?style=for-the-badge&logo=linkedin&logoColor=white&color=%230b65c3&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwilliamlibero%2F">
+    <a target="_blank" href="https://www.linkedin.com/in/williamlibero">
+        <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%20?style=for-the-badge&logo=linkedin&logoColor=white&color=%230b65c3">
+    </a>
 </div>
 
 <div align="center">
-    <h2>📖 Check my recent articles on Medium</h2>
+    <h2>📖 Check out my recent articles on Medium</h2>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/0" alt="Recent Articles"></a>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/1" alt="Recent Articles"> </a>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/2" alt="Recent Articles"> </a>
