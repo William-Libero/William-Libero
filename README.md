@@ -26,7 +26,7 @@
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%20?style=for-the-badge&logo=Laravel&logoColor=white&color=%23f33a2e">
     <img alt="React" src="https://img.shields.io/badge/React-%20?style=for-the-badge&logo=react&logoColor=white&color=%2362dafc">
     <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%20?style=for-the-badge&logo=nextdotjs&logoColor=white&color=black">
-    <img alt="Nestjs" src="https://img.shields.io/badge/Nestjs-%20?style=for-the-badge&logo=nestjs&logoColor=white&color=%23ea285dF">
+    <img alt="Nestjs" src="https://img.shields.io/badge/Nestjs-%20?style=for-the-badge&logo=nestjs&logoColor=white&color=%23ea285f">
 </div>
 
 <div align="center">
