@@ -2,7 +2,7 @@
 
 <div align="center">
     <h2>ℹ️ About Me</h2>
-    <p>I'm a full-stack developer specializing in Front-end.</p>
+    <h4>I'm a full-stack developer specializing in Front-end.</h4>
     <p>I enjoy writing articles about software development, reading books, and playing games.</p>
 </div>
 
