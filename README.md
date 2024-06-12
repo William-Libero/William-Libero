@@ -39,11 +39,12 @@
 
 <div align="center">
     <h2>📖 Check out my recent articles on Medium</h2>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/0" alt="Recent Articles"></a>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/1" alt="Recent Articles"> </a>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@williamliberos/2" alt="Recent Articles"> </a>
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=williamliberos&limit=3&bg=white&text=black)](https://medium.com/@williamliberos)
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah&limit=2&bg=red&text=green)](https://medium.com/@omidnikrah)
+    <a href="https://github.com/kurt-liao/medium-story">
+      <img
+        height="200"
+        src="https://medium-story.vercel.app/api?username=@williamliberos&index=0"
+      />
+    </a>
 </div>
 
 <div align="center">
