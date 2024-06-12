@@ -42,7 +42,7 @@
     <a href="https://github.com/kurt-liao/medium-story">
       <img
         height="200"
-        src="https://medium-story.vercel.app/api?username=@williamliberos&index=0"
+        src="https://medium-story.vercel.app/api?username=@williamliberos"
       />
     </a>
 </div>
