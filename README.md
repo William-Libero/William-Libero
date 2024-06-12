@@ -40,7 +40,7 @@
 <div align="center">
     <h2>📖 Check out my recent articles on Medium</h2>
     <a href="https://medium.com/@williamliberos">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Mediums-%20?style=for-the-badge&logo=medium&logoColor=white&color=black">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Medium-%20?style=for-the-badge&logo=medium&logoColor=white&color=black">
     </a>
 </div>
 
